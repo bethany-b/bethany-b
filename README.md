@@ -5,7 +5,7 @@ I am currently a PhD student at Georgia Tech working under [Dr. Elizabeth Cherry
 
 Previously, I earned Bachelor's degrees in Computer Science and Business Administration from the University of Nebraska-Lincoln and was a part of the [Jeffrey S. Raikes School of Computer Science and Management](https://raikes.unl.edu/). While at UNL, I conducted research under [Dr. Douglas Schultz](https://dschultz14.quarto.pub/douglashschultz/) at the [Center for Brain, Biology, and Behavior](https://cb3.unl.edu/) where I applied machine learning to neuroscience datasets to advance the university’s primary concussion research project and other neuroscience projects.
 
-More information about my background and research can be found at my [LinkedIn](https://www.linkedin.com/in/bethany-barnwell/) or [website](https://bbarnwell6.github.io/). 
+More information about my background and research can be found at my [LinkedIn](https://www.linkedin.com/in/bethany-barnwell/) or [website](https://bethany-b.github.io/). 
 <!--
 **bbarnwell6/bbarnwell6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
